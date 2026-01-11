@@ -1,4 +1,4 @@
-# fraud-detection-capstone
+# fraud-detection-project
 
 This is our final-year capstone project focused on detecting fraudulent credit card transactions using advanced machine learning techniques. We tackle the **class imbalance problem**, and compare various **models** to find the most effective fraud detection strategy.
 
@@ -6,7 +6,7 @@ This is our final-year capstone project focused on detecting fraudulent credit c
 
 ## 👥 Team Members
 
-- Zuleykha Salahova
+- Züleyha Salahova
 - Abdurrahman Begovic 
 - Marah Hasan
   
